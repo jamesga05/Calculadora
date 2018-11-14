@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\bin\Debug\Calculadora.James.exe.config
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\bin\Debug\Calculadora.James.exe
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\bin\Debug\Calculadora.James.pdb
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.Form1.resources
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.Properties.Resources.resources
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.exe
+C:\Users\Dell\source\repos\Calculadora.James\Calculadora.James\obj\Debug\Calculadora.James.pdb
